@@ -1,4 +1,4 @@
-###map 系列
+### map 系列
 
 #### hashmap  
 1、new hashmap（） 不会创建数组，初始化会在第一次put的时候触发。  
